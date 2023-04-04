@@ -1,7 +1,7 @@
 # GenHarris-ResNet: A Rotation Invariant Neural Network Based on Elementary Symmetric Polynomials
 
 
-<img src="/figures/scheme.png" alt="GanHarris" style="width:400px;"/>
+<img src="/figures/scheme.png" alt="GanHarris" style="width:750px;"/>
 
 GenHarris-ResNet architecture: The first part of the proposed network
 is equivariant to rotation and is composed of several feature function blocks
