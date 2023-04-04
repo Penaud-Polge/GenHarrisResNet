@@ -1,8 +1,13 @@
 # GenHarris-ResNet: A Rotation Invariant Neural Network Based on Elementary Symmetric Polynomials
 
 
-<img src="/figures/scheme.png" alt="GanHarris" style="height: 200px; width:200px;"/>
+<img src="/figures/scheme.png" alt="GanHarris" style="height: 400px; width:400px;"/>
 
+GenHarris-ResNet architecture: The first part of the proposed network
+is equivariant to rotation and is composed of several feature function blocks
+arranged in a ResNet configuration. Then, the feature maps are given to the
+global extrema pooling layer which brings the invariance property. A dense layer
+ends the network.
 
 Code:
 
