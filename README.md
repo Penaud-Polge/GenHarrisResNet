@@ -1,8 +1,12 @@
 # GenHarris-ResNet: A Rotation Invariant Neural Network Based on Elementary Symmetric Polynomials
 
- GenHarris-ResNet: A Rotation Invariant Neural Network Based on Elementary Symmetric Polynomials
+
+<img src="/figures/scheme.png" alt="GanHarris" style="height: 200px; width:200px;"/>
+
 
 Code:
+
+
 
 
 
