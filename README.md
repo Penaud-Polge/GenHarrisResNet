@@ -23,7 +23,8 @@ https://github.com/Penaud-Polge/GenHarrisResNet/blob/main/Code/test_GenHarris-Re
 Reference:
 
         
-        V. Penaud--Polge, S Velasco-Forero, J Angulo
+        V. Penaud--Polge, S Velasco-Forero, J Angulo,
+        GenHarris-ResNet: A Rotation Invariant Neural Network Based on Elementary Symmetric Polynomials,
         Scale Space and Variational Methods in Computer Vision, 2023
         (Oral Presentation)
 
