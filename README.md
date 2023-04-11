@@ -14,6 +14,8 @@ Code:
 Example of pretrained model on fashion mnist is given in:
 https://github.com/Penaud-Polge/GenHarrisResNet/blob/main/Code/test_GenHarris-ResNet.ipynb
 
+google colab of the notebook https://colab.research.google.com/drive/1t3UV97kmAM2V3kTtAkM4Xd6udqu1jQWY?usp=sharing
+
 
 
 
