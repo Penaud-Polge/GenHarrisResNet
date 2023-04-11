@@ -12,7 +12,7 @@ ends the network.
 Code:
 
 Example of pretrained model on fashion mnist is given in:
-https://github.com/Penaud-Polge/GenHarrisResNet/Code/test_GenHarris-ResNet.ipynb
+https://github.com/Penaud-Polge/GenHarrisResNet/blob/main/Code/test_GenHarris-ResNet.ipynb
 
 
 
